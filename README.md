@@ -29,3 +29,9 @@ Python · scikit-learn · Pandas · NumPy · Random Forest
 The most important feature for survival was Sex (women first 
 policy) followed by passenger class — the model learned 
 a 100-year-old historical social rule purely from numbers.
+
+## Results
+- Accuracy: 82.7% (local validation)
+- F1 Score: 78.3%
+- **Kaggle Public Leaderboard Score: 0.78468**
+- Dataset: 891 passengers, 12 features
